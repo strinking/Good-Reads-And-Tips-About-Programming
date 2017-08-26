@@ -38,7 +38,7 @@ This was originally made by [deccer](https://github.com/deccer)
 ### Patterns
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 ### Entity Component Systems Documentation
-* [What is an Entity Component System](What is an Entity Component System)
+* [What is an Entity Component System](http://www.richardlord.net/blog/what-is-an-entity-framework)
 ### Entity Component Systems in Code
 * [Entitas](https://github.com/sschmid/Entitas-CSharp)
 ## Physics
