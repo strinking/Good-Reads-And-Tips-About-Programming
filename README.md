@@ -23,7 +23,9 @@ This was originally made by [deccer](https://github.com/deccer)
 ### CSharp
 * [C# Programming Guide](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 ### Python
-* [Learn Python the hard way](https://learnpythonthehardway.org/book/)
+* [Automate the Boring Stuff](https://automatetheboringstuff.com)
+* [A Byte of Python](https://python.swaroopch.com)
+* (py2) [Learn Python the hard way](https://learnpythonthehardway.org/book/)
 ### JavaScript
 * [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 
