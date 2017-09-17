@@ -62,18 +62,22 @@ This was originally made by [deccer](https://github.com/deccer)
 * [Distance Field Font Rendering](https://www.mapbox.com/blog/text-signed-distance-fields/)
 * [Hexagons in CSharp](http://www.redblobgames.com/grids/hexagons/implementation.html)
 ### OpenGL
-* [Learn OpenGL No.1](http://learnopengl.com/)
-* [Learn OpenGL No.2](http://open.gl/)
-* [Learn OpenGL No.3](http://web.archive.org/web/20140209181347/http://www.arcsynthesis.org/gltut/)
+* [Learn OpenGL](http://learnopengl.com/)
+* [OpenGL tutorial](http://open.gl/)
+* [OGLdev - Modern OpenGL Tutorials](http://ogldev.atspace.co.uk/)
+* [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
+  * [Archive.org version](http://web.archive.org/web/20140209181347/http://www.arcsynthesis.org/gltut/)
 #### Libraries
 * [GLFW](http://www.glfw.org/docs/latest/quick.html)
+* [TwinklebearDev SDL2 Tutorial](http://www.willusher.io/pages/sdl2/)
 ### DirectX
 * [Tutorials for DX12](http://rastertek.com/tutdx12.html)
 * [Tutorials for DX11](http://rastertek.com/tutdx11.html)
 ### Vulkan
 * [Vulkan in 30 Minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
 * [Learn Vulkan](https://vulkan-tutorial.com/)
-* [Vulkan Examples - Sascha Willems (C++)](https://github.com/SaschaWillems/Vulkan)
+* [Vulkan C++ examples and demos](https://github.com/SaschaWillems/Vulkan)
+* [API without secrets: Introduction to Vulkan](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-preface)
 ## Graphics Related
 * [Pixar Online Libary](http://graphics.pixar.com/library/)
 * [Real Time Rendering SIGGRAPH Papers](http://advances.realtimerendering.com/)
@@ -90,10 +94,11 @@ This was originally made by [deccer](https://github.com/deccer)
 * [Vi/Vim](http://www.viemu.com/a-why-vi-vim.html)
 
 # Tools
-* [Normal Map Generator](http://ssbump-generator.yolasite.com/) (Alternative to CrazyBump)
+* [Normal Map Generator](http://cpetry.github.io/NormalMap-Online/) (Alternative to CrazyBump)
+* [Renderdoc](https://renderdoc.org/)
 
 # Licenses
 * [Which License To Pick for your projects](https://tldrlegal.com/)
 
 # Linux
-* [bare and simple setup of arch in a VM](https://gist.github.com/deccer/af124d74e5d472d408be2426eee7848e#file-install-archlinux-in-a-vm-simple)
+* [Bare and simple setup of arch in a VM](https://gist.github.com/deccer/af124d74e5d472d408be2426eee7848e#file-install-archlinux-in-a-vm-simple)
