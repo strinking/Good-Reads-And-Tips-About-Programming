@@ -91,6 +91,7 @@ This was originally made by [deccer](https://github.com/deccer)
 
 # Editors
 ## Vim
+* [Atom (Harry's Pick)](https://atom.io/)
 * [Vi/Vim](http://www.viemu.com/a-why-vi-vim.html)
 * [A Byte of Vim](https://vim.swaroopch.com)
 
