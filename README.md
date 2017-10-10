@@ -35,6 +35,7 @@ This was originally made by [deccer](https://github.com/deccer)
 
 # Game Programming
 ## General
+* [Awesome Gamedev - a repo similar to this one but more focused on gamedev](https://github.com/Calinou/awesome-gamedev)
 * [Random Number Generators](http://www.pcg-random.org/)
 * [tutorials, papers and code for computer graphics, fractals and demoscene](http://www.iquilezles.org/www/index.htm)
 ### Patterns
