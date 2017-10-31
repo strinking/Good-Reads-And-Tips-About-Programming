@@ -83,6 +83,10 @@ This was originally made by [deccer](https://github.com/deccer)
 * [Real Time Rendering SIGGRAPH Papers](http://advances.realtimerendering.com/)
 * [Procedural Worlds](http://procworld.blogspot.com/)
 * [Polygon Map Generation](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)
+* [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized)
+* [PBR Textures Sponza](http://www.alexandre-pestana.com/pbr-textures-sponza/)
+* [11 Dithering Algorithms](http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/)
+* [Bindless Texturing (Deferred Rendering and Decals)](https://mynameismjp.wordpress.com/2016/03/25/bindless-texturing-for-deferred-rendering-and-decals/)
 
 # Version Control
 * [Best Cheat Sheet for Git so far (IMHO)](http://ndpsoftware.com/git-cheatsheet.html#loc=index;)
