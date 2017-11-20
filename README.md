@@ -30,7 +30,7 @@ This was originally made by [deccer](https://github.com/deccer)
 * [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 
 # General Programming
-### CSharp
+### C#
 * [C# Concurrency Cheat Sheet](http://blog.benoitblanchon.fr/csharp-concurrency-cheat-sheet/)
 
 # Game Programming
