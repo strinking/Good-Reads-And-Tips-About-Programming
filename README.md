@@ -10,6 +10,8 @@ This was originally made by [deccer](https://github.com/deccer)
 * [MarkDown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # Learning a New Language
+### Batch
+* [Thinking in Batch](https://cdn.discordapp.com/attachments/213114488700928000/376014222116519938/meme.png)
 ### C++
 * [Getting Started](https://isocpp.org/get-started)
 * [Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
@@ -20,7 +22,7 @@ This was originally made by [deccer](https://github.com/deccer)
   #### gl_lite
   * [gl_lite from the Papaya Project](https://github.com/ApoorvaJ/Papaya/blob/master/src/libs/gl_lite.h)
   * [accompanying blog post](https://papaya.handmade.network/blogs/p/1450#8143)
-### CSharp
+### C#
 * [C# Programming Guide](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 ### Python
 * [Automate the Boring Stuff](https://automatetheboringstuff.com)
