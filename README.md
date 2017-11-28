@@ -27,6 +27,7 @@ This was originally made by [deccer](https://github.com/deccer)
 ### Python
 * [Automate the Boring Stuff](https://automatetheboringstuff.com)
 * [A Byte of Python](https://python.swaroopch.com)
+* [How to make a Discord bot using Discord.py](https://www.gitbook.com/book/ryankb03/how-to-make-a-discord-bot-using-discord-py)
 * (py2) [Learn Python the hard way](https://learnpythonthehardway.org/book/)
 ### JavaScript
 * [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
