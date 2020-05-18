@@ -31,6 +31,9 @@ This was originally made by [deccer](https://github.com/deccer)
 ### JavaScript
 * [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 
+### Rust
+* [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
+
 # General Programming
 ### C#
 * [C# Concurrency Cheat Sheet](http://blog.benoitblanchon.fr/csharp-concurrency-cheat-sheet/)
