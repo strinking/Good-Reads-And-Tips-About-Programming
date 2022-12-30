@@ -104,6 +104,11 @@ This was originally made by [deccer](https://github.com/deccer)
 ## Vim
 * [Vi/Vim](http://www.viemu.com/a-why-vi-vim.html)
 * [A Byte of Vim](https://vim.swaroopch.com)
+## Emacs
+* [Doom Emacs](https://github.com/doomemacs/), a configuration framework distribution for Emacs
+* [Org-mode](https://orgmode.org/quickstart.html), a better alternative to markdown with calendaring
+* [Emacs Newbie Key Reference](https://www.emacswiki.org/emacs/EmacsNewbieKeyReference), for vanilla Emacs
+* [Suggestions for getting started with Elisp](https://emacs.stackexchange.com/a/47320)
 ## Atom
 * [Atom (Harry's Pick)](https://atom.io/)
 
