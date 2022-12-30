@@ -42,7 +42,7 @@ This was originally made by [deccer](https://github.com/deccer)
 ### Patterns
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 ### Entity Component Systems Documentation
-* [What is an Entity Component System](http://www.richardlord.net/blog/what-is-an-entity-framework)
+* [What is an Entity Component System](https://www.richardlord.net/blog/ecs/what-is-an-entity-framework.html)
 ### Entity Component Systems in Code
 * [Entitas](https://github.com/sschmid/Entitas-CSharp)
 ## Physics
