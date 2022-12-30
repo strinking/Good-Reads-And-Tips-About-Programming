@@ -54,6 +54,7 @@ This was originally made by [deccer](https://github.com/deccer)
 * [Matrix and Quaternion FAQ](http://www.j3d.org/matrix_faq/matrfaq_latest.html)
 * [Ray Marching Distance Fields](http://9bitscience.blogspot.no/2013/07/raymarching-distance-fields_14.html)
 * [Quaternion / Gimbal Lock](http://mathoverflow.net/a/95908)
+* [Clifford Algebra](https://bivector.net), an alternative approach to matrices and quaternions.
 ## Networking
 * [BSD Socket Basics - Beej's Network Guide](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html)
 * [Gaffer on Games - Game Networking](http://gafferongames.com/networking-for-game-programmers/)
