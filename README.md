@@ -97,6 +97,7 @@ This was originally made by [deccer](https://github.com/deccer)
 * [Best Cheat Sheet for Git so far (IMHO)](http://ndpsoftware.com/git-cheatsheet.html#loc=index;)
 * [Very Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 * [In-depth explanation of how Git works](https://jwiegley.github.io/git-from-the-bottom-up/)
+* [Pro Git](https://git-scm.com/book/en/v2)
 
 # Editors
 ## Vim
