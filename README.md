@@ -4,6 +4,7 @@ This was originally made by [deccer](https://github.com/deccer)
 
 # General
 * [Memory, Cache, CPU Optimization Resources (by ocornut)](https://gist.github.com/ocornut/cb980ea183e848685a36)
+* [More memory, cache, and CPU optimization resources (by Agner Fog)](https://www.agner.org/optimize/)
 * [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
 * [Bit Hacks on GitHub](https://github.com/gibsjose/BitHacks/blob/master/BitHacks.md#compute-the-minimum-min-or-maximum-max-of-two-integers-without-branching)
 * [Semantic Versioning](http://semver.org/)
