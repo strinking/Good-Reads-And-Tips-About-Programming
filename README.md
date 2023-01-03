@@ -4,6 +4,7 @@ This was originally made by [deccer](https://github.com/deccer)
 
 # General
 * [Memory, Cache, CPU Optimization Resources (by ocornut)](https://gist.github.com/ocornut/cb980ea183e848685a36)
+* [More memory, cache, and CPU optimization resources (by Agner Fog)](https://www.agner.org/optimize/)
 * [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
 * [Bit Hacks on GitHub](https://github.com/gibsjose/BitHacks/blob/master/BitHacks.md#compute-the-minimum-min-or-maximum-max-of-two-integers-without-branching)
 * [Semantic Versioning](http://semver.org/)
@@ -15,6 +16,7 @@ This was originally made by [deccer](https://github.com/deccer)
 ### C++
 * [Getting Started](https://isocpp.org/get-started)
 * [Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+* [Guidelines Support Library](https://github.com/microsoft/GSL) to help you follow the Core Guidelines
 * Single Header Libraries
   #### STB
   * [GitHub](https://github.com/nothings/stb)
@@ -22,6 +24,8 @@ This was originally made by [deccer](https://github.com/deccer)
   #### gl_lite
   * [gl_lite from the Papaya Project](https://github.com/ApoorvaJ/Papaya/blob/master/src/libs/gl_lite.h)
   * [accompanying blog post](https://papaya.handmade.network/blogs/p/1450#8143)
+  #### testing
+  * [catch2 test framework](https://github.com/catchorg/Catch2)
 ### C#
 * [C# Programming Guide](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 ### Python
@@ -52,6 +56,7 @@ This was originally made by [deccer](https://github.com/deccer)
 * [Matrix and Quaternion FAQ](http://www.j3d.org/matrix_faq/matrfaq_latest.html)
 * [Ray Marching Distance Fields](http://9bitscience.blogspot.no/2013/07/raymarching-distance-fields_14.html)
 * [Quaternion / Gimbal Lock](http://mathoverflow.net/a/95908)
+* [Clifford Algebra](https://bivector.net), an alternative approach to matrices and quaternions.
 ## Networking
 * [BSD Socket Basics - Beej's Network Guide](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html)
 * [Gaffer on Games - Game Networking](http://gafferongames.com/networking-for-game-programmers/)
@@ -94,11 +99,17 @@ This was originally made by [deccer](https://github.com/deccer)
 * [Best Cheat Sheet for Git so far (IMHO)](http://ndpsoftware.com/git-cheatsheet.html#loc=index;)
 * [Very Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 * [In-depth explanation of how Git works](https://jwiegley.github.io/git-from-the-bottom-up/)
+* [Pro Git](https://git-scm.com/book/en/v2)
 
 # Editors
 ## Vim
 * [Vi/Vim](http://www.viemu.com/a-why-vi-vim.html)
 * [A Byte of Vim](https://vim.swaroopch.com)
+## Emacs
+* [Doom Emacs](https://github.com/doomemacs/), a configuration framework distribution for Emacs
+* [Org-mode](https://orgmode.org/quickstart.html), a better alternative to markdown with calendaring
+* [Emacs Newbie Key Reference](https://www.emacswiki.org/emacs/EmacsNewbieKeyReference), for vanilla Emacs
+* [Suggestions for getting started with Elisp](https://emacs.stackexchange.com/a/47320)
 ## Atom
 * [Atom (Harry's Pick)](https://atom.io/)
 
