@@ -16,6 +16,7 @@ This was originally made by [deccer](https://github.com/deccer)
 ### C++
 * [Getting Started](https://isocpp.org/get-started)
 * [Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+* [Guidelines Support Library](https://github.com/microsoft/GSL) to help you follow the Core Guidelines
 * Single Header Libraries
   #### STB
   * [GitHub](https://github.com/nothings/stb)
